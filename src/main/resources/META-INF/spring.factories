@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.alibaba.dubbox.springboot.DubboxContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.alibaba.dubbox.springboot.DubboxAutoConfiguration
